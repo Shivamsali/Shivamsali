@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shivamsali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamsali/)](https://www.linkedin.com/in/shivamsali/)
+[![Linkedin Badge](https://img.shields.io/badge/-Shivam_sali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamsali/)](https://www.linkedin.com/in/shivamsali/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shivamsali-yellow)](https://stackoverflow.com/users/18820476/shivamsali)
 
 I'm Full stack developer. I've been lucky enough to work in Edureka with some talented teams. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive), database(MongoDB,Mysql)
